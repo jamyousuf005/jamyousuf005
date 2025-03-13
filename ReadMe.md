@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Myself Jam Yousuf 
 🔭 I’m currently working on frontend development<br>🌱 I’m currently learning full stack web-development<br>👯 I’m looking to collaborate on frontend <br>💬 Ask me about frontend issues<br><br>
 
 
