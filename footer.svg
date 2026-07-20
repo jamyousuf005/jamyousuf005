@@ -1,0 +1,53 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00C9FF">
+        <animate attributeName="stop-color" values="#00C9FF;#2C5364;#00C9FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#2C5364">
+        <animate attributeName="stop-color" values="#2C5364;#0F2027;#2C5364" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0F2027">
+        <animate attributeName="stop-color" values="#0F2027;#00C9FF;#0F2027" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgGradFooter)"/>
+
+  <g fill="#ffffff">
+    <circle cx="120" cy="40" r="2" opacity="0.5">
+      <animate attributeName="cy" values="40;20;40" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="380" cy="30" r="1.6" opacity="0.45">
+      <animate attributeName="cy" values="30;50;30" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="25" r="2.1" opacity="0.5">
+      <animate attributeName="cy" values="25;45;25" dur="6.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="35" r="1.8" opacity="0.45">
+      <animate attributeName="cy" values="35;15;35" dur="7.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="45" r="2" opacity="0.5">
+      <animate attributeName="cy" values="45;25;45" dur="6.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path fill="#ffffff" opacity="0.12">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="
+      M0,80 C200,60 400,100 600,80 C800,60 1000,100 1200,80 L1200,140 L0,140 Z;
+      M0,90 C200,105 400,65 600,90 C800,105 1000,65 1200,90 L1200,140 L0,140 Z;
+      M0,80 C200,60 400,100 600,80 C800,60 1000,100 1200,80 L1200,140 L0,140 Z
+      "/>
+  </path>
+
+  <path fill="#ffffff" opacity="0.08">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="
+      M0,100 C250,120 450,80 600,100 C850,120 1000,80 1200,100 L1200,140 L0,140 Z;
+      M0,110 C250,90 450,120 600,110 C850,90 1000,120 1200,110 L1200,140 L0,140 Z;
+      M0,100 C250,120 450,80 600,100 C850,120 1000,80 1200,100 L1200,140 L0,140 Z
+      "/>
+  </path>
+</svg>
