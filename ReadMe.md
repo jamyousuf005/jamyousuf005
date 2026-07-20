@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<img src="/banner.svg" width="100%"/>
 
 <a href="https://linkedin.com/in/jamyousuf">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
