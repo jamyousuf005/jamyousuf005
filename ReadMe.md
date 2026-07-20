@@ -33,7 +33,7 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 👋 About Me
 
@@ -43,7 +43,7 @@ I care about the parts of engineering that don't show up in a demo — clean API
 
 I'm most interested in the space between *"it works"* and *"it's engineered right"* — and I enjoy being the person who closes that gap.
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🧭 Current Focus
 
@@ -55,7 +55,7 @@ I'm most interested in the space between *"it works"* and *"it's engineered righ
 ⚡ Fun Fact:      Built 3 software projects in 7 hours and placed 3rd at Hacktoberfest 2.0
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🛠️ Tech Stack
 
@@ -91,7 +91,7 @@ I'm most interested in the space between *"it works"* and *"it's engineered righ
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 💼 Experience Highlights
 
@@ -135,7 +135,7 @@ I'm most interested in the space between *"it works"* and *"it's engineered righ
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🚀 Featured Projects
 
@@ -168,7 +168,7 @@ A MERN-based URL shortening platform with JWT auth, role-based authorization, an
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 📊 GitHub Analytics
 
@@ -195,7 +195,7 @@ A MERN-based URL shortening platform with JWT auth, role-based authorization, an
   <img src="https://raw.githubusercontent.com/jamyousuf005/jamyousuf005/output/github-contribution-grid-snake.svg" width="100%"/>
 -->
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🎓 Education
 
@@ -211,7 +211,7 @@ Mehran University of Engineering and Technology
 </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🏆 Certifications & Achievements
 
@@ -223,7 +223,7 @@ Mehran University of Engineering and Technology
 - 📜 **MongoDB Node.js Developer Path** — MongoDB · **[View Certificate](https://learn.mongodb.com/c/I0x-wnGiRweyiJK52QlsLQ)**
 - 🥉 **3rd Place — Hacktoberfest 2.0** (AWS Cloud Club MUET): built 3 software projects in 7 hours, including two MERN stack apps and one Dockerized deployment · **[View Submission](https://github.com/AWS-Cloud-Club-Mehran-UET/HacktoberFest-2.0/tree/submission/Submissions/webies)**
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="/divider.svg" width="100%"/></div>
 
 ## 🤝 Connect With Me
 
@@ -250,6 +250,6 @@ Mehran University of Engineering and Technology
 
 ### *"Code is a liability the moment you write it — the job is making it worth the debt."*
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="/footer.svg" width="100%"/>
 
 </div>
