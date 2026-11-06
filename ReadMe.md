@@ -219,7 +219,6 @@ Mehran University of Engineering and Technology
 <img src="https://github-profile-trophy.vercel.app/?username=jamyousuf005&theme=algolia&no-frame=true&row=1&column=6" />
 </div>
 
- [![AWS Cloud Quest](./aws-cloud-quest-cloud-practitioner-training-badge.png)](https://skillbuilder.aws/)
 - 📜 **Mastering NestJS** — Packt · **[View Certificate](https://www.coursera.org/account/accomplishments/verify/NH9NEK3ZWW2S)**
 - 📜 **MongoDB Node.js Developer Path** — MongoDB · **[View Certificate](https://learn.mongodb.com/c/I0x-wnGiRweyiJK52QlsLQ)**
 - 🥉 **3rd Place — Hacktoberfest 2.0** (AWS Cloud Club MUET): built 3 software projects in 7 hours, including two MERN stack apps and one Dockerized deployment · **[View Submission](https://github.com/AWS-Cloud-Club-Mehran-UET/HacktoberFest-2.0/tree/submission/Submissions/webies)**
